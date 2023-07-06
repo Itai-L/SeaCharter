@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/SeaCharter" >
+        <file>icon.png</file>
+        <file>start.png</file>
+        <file>finish.png</file>
+        <file>pause.png</file>
+        <file>resume.png</file>
+    </qresource>
+</RCC>
